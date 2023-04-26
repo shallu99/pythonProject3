@@ -1,0 +1,1 @@
+pytest -s -v C:\Users\Shreyank M\PycharmProjects\pythonProject2\allurereportsdemo\test_step_by_step_with_screenshot.py

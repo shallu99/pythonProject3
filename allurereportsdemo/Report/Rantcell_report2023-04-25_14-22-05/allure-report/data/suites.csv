@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 25 14:22:07 IST 2023","Tue Apr 25 14:22:28 IST 2023","20861","","test_T001","Test_T001","","","test_Login[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login0]",""
+"passed","Tue Apr 25 14:22:28 IST 2023","Tue Apr 25 14:22:38 IST 2023","10595","","test_T001","Test_T001","","","test_Login[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login1]",""
+"skipped","Tue Apr 25 14:22:38 IST 2023","Tue Apr 25 14:22:38 IST 2023","0","","test_allure_screenshot_for_pass_and_fail","TestHRM","","","test_listemployees",""
+"failed","Tue Apr 25 14:22:48 IST 2023","Tue Apr 25 14:23:15 IST 2023","26074","","test_allure_screenshot_for_pass_and_fail","TestHRM","","","test_Login",""
+"passed","Tue Apr 25 14:22:07 IST 2023","Tue Apr 25 14:22:33 IST 2023","26619","","test_allure_multiple_screenshot_achieved","TestHRM","","","test_Login",""
+"passed","Tue Apr 25 14:22:33 IST 2023","Tue Apr 25 14:22:48 IST 2023","14974","","test_allure_screenshot_for_pass_and_fail","TestHRM","","","test_logo",""
+"passed","Tue Apr 25 14:22:43 IST 2023","Tue Apr 25 14:22:53 IST 2023","10038","","test_step_by_step_with_screenshot","TestHRM","","","Google search for 'OrangeHRM'",""
